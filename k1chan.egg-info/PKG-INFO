@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: k1chan
+Version: 1.0.0
+Summary: K1Chan:Quantitative Financial Strategy Framework
+Home-page: 
+Author: K1Quant.Studio
+Author-email: 
+License: MIT
+Keywords: K1Chan,quant,finance,Backtest,Framework
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+K1 Framework
